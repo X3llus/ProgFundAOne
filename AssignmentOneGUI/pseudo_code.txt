@@ -1,0 +1,5 @@
+ask for 6 grades
+    check each grade to see if inputted grade is valid
+display each grade with a letter mark
+calculate the average of the grades
+    display the average with the letter mark

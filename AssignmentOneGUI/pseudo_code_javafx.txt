@@ -1,0 +1,6 @@
+Wait for a button to be pressed
+    if add was pressed check to see if the entered grade is a number between 0 and 100
+        if so get all inputs and add it to the table
+        if not than tell user grade input must be number between 0 and 100
+        calculate and display a new average
+    if delete was pressed remove the selected entry and calculate and display new average
